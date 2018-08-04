@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D51349721157AB3000DA314 /* UAProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D51349521157AB3000DA314 /* UAProgressView.h */; };
+		1D51349721157AB3000DA314 /* UAProgressView.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D51349521157AB3000DA314 /* UAProgressView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1D51349821157AB3000DA314 /* UAProgressView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D51349621157AB3000DA314 /* UAProgressView.m */; };
 /* End PBXBuildFile section */
 
